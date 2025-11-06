@@ -1,1 +1,1 @@
-This repository contains slides of a subset of talks I have given. It also contains a video of the talk I gave at the Theoretical Elementary Particles Seminar at the University of California Los Angeles (UCLA). 
+This repository contains slides of a subset of talks I have given, based on forthcoming works in collaboration with my advisor Professor Thomas Dumitrescu. 
