@@ -1,1 +1,1 @@
-This repository contains slides of a subset of talks I have given, based on forthcoming works in collaboration with my advisor Professor Thomas Dumitrescu. 
+Here you’ll find slides from a few of my talks, based on upcoming work with my advisor, Professor Thomas Dumitrescu. I’ve included slides from two main talks—others are versions of the same presentation given elsewhere.
